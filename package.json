@@ -1,0 +1,20 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "react-redux tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodejs server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubyonrails-intuit/react_redux_tutorial.git"
+  },
+  "author": "Mr. Borwn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rubyonrails-intuit/react_redux_tutorial/issues"
+  },
+  "homepage": "https://github.com/rubyonrails-intuit/react_redux_tutorial#readme"
+}
