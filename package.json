@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/rubyonrails-intuit/react_redux_tutorial/issues"
   },
-  "homepage": "https://github.com/rubyonrails-intuit/react_redux_tutorial#readme"
+  "homepage": "https://github.com/rubyonrails-intuit/react_redux_tutorial#readme",
+  "devDependencies": {
+    "express": "^4.16.2",
+    "webpack": "^3.10.0",
+    "webpack-dev-middleware": "^2.0.4",
+    "webpack-hot-middleware": "^2.21.0"
+  }
 }
